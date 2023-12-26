@@ -14,7 +14,7 @@ class ProfilePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'User Profile Name', // Replace this with the actual profile name
+              'Chinmay Anand : 220312',
               style: TextStyle(fontSize: 24),
             ),
             // Add more profile-related information or actions as needed
